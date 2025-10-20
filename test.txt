@@ -1,1 +1,1 @@
-some test text for exercise purposes (creating a merge conflict)
+some test text for exercise purposes (creating a merge conflict!)
